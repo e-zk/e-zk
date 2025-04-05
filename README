@@ -1,6 +1,9 @@
 
 
-www:	zakaria.org
-mail:	contact () zakaria ! org
-matrix:	@zk:envs.net
+
+
+www=zakaria.org
+mail=contact@${www}
+
+
 
